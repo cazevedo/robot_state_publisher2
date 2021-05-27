@@ -1,8 +1,6 @@
 Changes from [pull request #139](https://github.com/ros/robot_state_publisher/pull/139).
 
-Just clone a build.
-
-Tested in noetic.
+Tested in noetic. Just clone a build.
 
 Launch file example:
 ```
