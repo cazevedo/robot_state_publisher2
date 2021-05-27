@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(robot_state_publisher)
+project(robot_state_publisher2)
 
 include(CheckCXXCompilerFlag)
 unset(COMPILER_SUPPORTS_CXX11 CACHE)
